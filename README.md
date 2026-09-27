@@ -84,7 +84,7 @@ If you’ve used this adapter to install disc brakes on your ride, I’d love to
 ### Need a Custom Fit?
 If this adapter didn't fit your frame or Flat Mount caliper properly, please let me know! **[Open an Issue](../../issues/new)** with the following details:
 * **Issue Title:** `[Custom Request] <Bike Year, Brand & Model>`
-* **Bike Details:** Year, Brand, Model Name, Frame Size, and Rotor Size (if different from 160mm)
+* **Bike Details:** Year, Brand, Model Name, Frame Size
 * **Issue Description:** A brief explanation of where the interference or fitment problem occurs
 * **Photos:** Clear photos showing the interference/fitment issue from a few angles
 
