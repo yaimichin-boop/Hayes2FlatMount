@@ -18,24 +18,38 @@ However, after real-world testing and evaluation, I found structural limitations
 Determined to build a rock-solid, long-lasting solution for my bike and the retro community, I redesigned the adapter from scratch:
 * **Engineered with Precision:** Re-modeled in CAD with optimized geometry for maximum strength.
 * **FEA Verified:** Validated through Structural Analysis (FEA) software to comfortably withstand severe braking forces.
-* **Ready for Manufacturing:** The `.step` file is open and available for download right here in this repository!
+* **Ready to Download:** Both `.stl` and `.step` files are available right here in this repository!
+
+---
+
+## 📁 Download Files & Usage (`.stl` vs `.step`)
+
+In this repository, you will find two different 3D file formats:
+
+1. **`.stl` File (Optional - For Test Fit / Mock-up):**
+   * **Purpose:** Use this file if you want to 3D print a plastic prototype at home to test-fit before ordering metal parts.
+   * **Why?** It allows you to double-check frame clearance, caliper alignment, and bolt hole positions on your specific setup with zero risk.
+   * ⚠️ **Safety Warning:** **Do NOT ride with a 3D-printed adapter!** Plastic prints are strictly for test-fitting and mock-up purposes.
+
+2. **`.step` File (For Actual Riding / CNC Machining):**
+   * **Purpose:** Download this file to order your final, rideable aluminum adapter from a CNC machining service.
+   * **Feeling Confident?** If you're brave enough and confident in your frame dimensions, you can skip the STL 3D-printing test entirely and jump straight to CNC machining with the `.step` file!
 
 ---
 
 ## 🛠️ How to Get Yours CNC Manufactured
 
-Since brake components are critical safety parts, **3D printing is not recommended**. You can easily get this part precision-machined out of solid billet aluminum via online CNC services.
+Whenever you're ready to make the final metal part, follow these steps:
 
-1. **Download the File:** Grab the `.step` file from this repository.
-2. **Upload to a CNC Service:**
+1. **Upload the `.step` File to a CNC Service:**
    * [JLCCNC](https://jlccnc.com/)
    * [meviy by MISUMI](https://meviy.misumi-ec.com/)
    * Or any local/online CNC machining service of your choice.
-3. **Recommended Material & Finish Options:**
+2. **Recommended Material & Finish Options:**
    * **Material:** Aluminum 7075 *(Highly recommended for structural integrity)*
    * **Surface Finish:** Bead Blasting + Anodizing 
    * **Color:** Matte Cobalt Blue *(or your favorite color!)*
-4. **Estimated Cost:** In most cases, ordering a single custom piece costs around **~$50 USD** (including shipping).
+3. **Estimated Cost:** Ordering a single custom piece typically costs around **~$50 USD** (including shipping).
 
 ---
 
@@ -51,7 +65,7 @@ If this adapter didn't fit your frame or Flat Mount caliper properly, please let
 * **Issue Description:** A brief explanation of where the interference or fitment problem occurs
 * **Photos:** Clear photos showing the interference/fitment issue from a few angles
 
-When I have spare time, I will design a custom-modified adapter for your setup and upload the new `.step` file to this repository so you and others can download it!
+When I have spare time, I will design a custom-modified adapter for your setup and upload new `.stl` and `.step` files to this repository so you and others can download them!
 
 ---
 
