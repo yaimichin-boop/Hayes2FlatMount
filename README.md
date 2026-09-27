@@ -22,6 +22,19 @@ Determined to build a rock-solid, long-lasting solution for my bike and the retr
 
 ---
 
+## 🤔 Why Flat Mount? (Rationale)
+
+Existing adapters that mount IS or Post Mount calipers on the seatstay behind the dropout often come with several frustrating compromises:
+
+1. **Rear Wheel Removal Nightmares:** The bulky adapter position often makes removing and re-installing the rear wheel a awkward, fiddly chore.
+2. **Wheel Ejection Risks Under Braking:** Placing the caliper on the upper seatstay forces the braking torque to push the rear axle *out* of horizontal or semi-horizontal dropouts. Under hard braking, the wheel feels like it's trying to eject backwards!
+3. **Clunky Aesthetics:** Oversized adapters sticking out off the seatstay look unrefined and ruin the clean lines of classic retro frames.
+4. **Unnecessary Weight:** Extra bracketry and large IS/Post mount hardware add pointless weight to a lightweight vintage build.
+
+Switching to a direct **Hayes 22mm to Flat Mount** solution solves all of these issues: it keeps the brake neatly tucked inside the rear triangle, aligns braking forces safely, improves wheel clearance, cuts weight, and delivers a ultra-clean, factory-like aesthetic.
+
+---
+
 ## 📁 Download Files & Usage (`.stl` vs `.step`)
 
 In this repository, you will find two different 3D file formats:
