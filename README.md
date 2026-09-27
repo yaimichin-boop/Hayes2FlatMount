@@ -59,6 +59,8 @@ When I have spare time, I will design a custom-modified adapter for your setup a
 If this project saved your classic frame, solved a tricky build issue, or helped put your dream bike back on the trail, consider supporting my work! Any contributions are greatly appreciated and help fuel future open-source bike engineering projects.
 
 **Bitcoin (BTC) Address:**
+```text
 bc1qsr3ce2awh39jfm2uqjs24jafm5q6lwneywqqhg
+```
 
 Thank you for stopping by, and happy riding! 🚲
