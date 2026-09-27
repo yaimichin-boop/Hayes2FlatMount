@@ -42,13 +42,14 @@ Since brake components are critical safety parts, **3D printing is not recommend
 ## 📸 Community Showcase & Feedback
 
 ### Got it working?
-If you’ve used this adapter to install disc brakes on your ride, I’d love to see it! Please send your build photos to **yaimichin@gmail.com**, and I will feature your bike right here on this page to inspire other classic MTB enthusiasts!
+If you’ve used this adapter to install disc brakes on your ride, I’d love to see it! Please **[open a new Issue](../../issues/new)** and upload your build photos. I will feature your bike right here on this page to inspire other classic MTB enthusiasts!
 
 ### Need a Custom Fit?
-If this adapter didn't fit your frame or Flat Mount caliper properly, please let me know! Send an email to **yaimichin@gmail.com** with the following details:
-* **Bike Details:** Year, Model Name, and Frame Size
+If this adapter didn't fit your frame or Flat Mount caliper properly, please let me know! **[Open an Issue](../../issues/new)** with the following details:
+* **Issue Title:** `[Custom Request] <Bike Year, Brand & Model>`
+* **Bike Details:** Year, Brand, Model Name, and Frame Size
 * **Issue Description:** A brief explanation of where the interference or fitment problem occurs
-* **Photos:** Clear photos showing the issue from a few angles
+* **Photos:** Clear photos showing the interference/fitment issue from a few angles
 
 When I have spare time, I will design a custom-modified adapter for your setup and upload the new `.step` file to this repository so you and others can download it!
 
