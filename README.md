@@ -1,6 +1,16 @@
-# Hayes 22mm to Flat Mount Disc Brake Adapter
+# Hayes 22mm to Flat Mount Disc Brake Adapter (160mm Rotor)
 
 Welcome! This project provides a reliable, precision-engineered CAD solution for mounting modern **Flat Mount** disc brake calipers onto classic frames using the **Hayes 22mm** direct-mount standard.
+
+---
+
+## ⚙️ Specifications
+
+* **Frame Mount Standard:** Hayes 22mm Direct Mount
+* **Caliper Standard:** Flat Mount (Road/Gravel/Modern MTB)
+* **Target Rotor Size:** **160mm Rotor** *(Designed specifically for 160mm setups)*
+* **Recommended Material:** Aluminum 7075-T6
+* **Manufacturing Process:** CNC Machining
 
 ---
 
@@ -16,7 +26,7 @@ While searching for solutions, I discovered a 3D model ([Thing: 6219703](https:/
 However, after real-world testing and evaluation, I found structural limitations in that initial design that could compromise safety under heavy braking loads. 
 
 Determined to build a rock-solid, long-lasting solution for my bike and the retro community, I redesigned the adapter from scratch:
-* **Engineered with Precision:** Re-modeled in CAD with optimized geometry for maximum strength.
+* **Engineered with Precision:** Re-modeled in CAD with optimized geometry tailored for **160mm disc rotors**.
 * **FEA Verified:** Validated through Structural Analysis (FEA) software to comfortably withstand severe braking forces.
 * **Ready to Download:** Both `.stl` and `.step` files are available right here in this repository!
 
@@ -24,14 +34,14 @@ Determined to build a rock-solid, long-lasting solution for my bike and the retr
 
 ## 🤔 Why Flat Mount? (Rationale)
 
-Existing adapters that mount IS or Post Mount calipers on the seatstay behind the dropout often come with several frustrating compromises:
+Existing aftermarket adapters that mount IS or Post Mount calipers on the seatstay behind the dropout often come with several frustrating compromises:
 
 1. **Rear Wheel Removal Nightmares:** The bulky adapter position often makes removing and re-installing the rear wheel a awkward, fiddly chore.
 2. **Wheel Ejection Risks Under Braking:** Placing the caliper on the upper seatstay forces the braking torque to push the rear axle *out* of horizontal or semi-horizontal dropouts. Under hard braking, the wheel feels like it's trying to eject backwards!
 3. **Clunky Aesthetics:** Oversized adapters sticking out off the seatstay look unrefined and ruin the clean lines of classic retro frames.
 4. **Unnecessary Weight:** Extra bracketry and large IS/Post mount hardware add pointless weight to a lightweight vintage build.
 
-Switching to a direct **Hayes 22mm to Flat Mount** solution solves all of these issues: it keeps the brake neatly tucked inside the rear triangle, aligns braking forces safely, improves wheel clearance, cuts weight, and delivers a ultra-clean, factory-like aesthetic.
+Switching to a direct **Hayes 22mm to Flat Mount (160mm)** solution solves all of these issues: it keeps the brake neatly tucked inside the rear triangle, aligns braking forces safely, improves wheel clearance, cuts weight, and delivers an ultra-clean, factory-like aesthetic.
 
 ---
 
@@ -41,7 +51,7 @@ In this repository, you will find two different 3D file formats:
 
 1. **`.stl` File (Optional - For Test Fit / Mock-up):**
    * **Purpose:** Use this file if you want to 3D print a plastic prototype at home to test-fit before ordering metal parts.
-   * **Why?** It allows you to double-check frame clearance, caliper alignment, and bolt hole positions on your specific setup with zero risk.
+   * **Why?** It allows you to double-check frame clearance, 160mm rotor alignment, and bolt hole positions on your specific setup with zero risk.
    * ⚠️ **Safety Warning:** **Do NOT ride with a 3D-printed adapter!** Plastic prints are strictly for test-fitting and mock-up purposes.
 
 2. **`.step` File (For Actual Riding / CNC Machining):**
@@ -74,7 +84,7 @@ If you’ve used this adapter to install disc brakes on your ride, I’d love to
 ### Need a Custom Fit?
 If this adapter didn't fit your frame or Flat Mount caliper properly, please let me know! **[Open an Issue](../../issues/new)** with the following details:
 * **Issue Title:** `[Custom Request] <Bike Year, Brand & Model>`
-* **Bike Details:** Year, Brand, Model Name, and Frame Size
+* **Bike Details:** Year, Brand, Model Name, Frame Size, and Rotor Size (if different from 160mm)
 * **Issue Description:** A brief explanation of where the interference or fitment problem occurs
 * **Photos:** Clear photos showing the interference/fitment issue from a few angles
 
