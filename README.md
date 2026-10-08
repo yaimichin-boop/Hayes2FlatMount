@@ -102,3 +102,16 @@ bc1qsr3ce2awh39jfm2uqjs24jafm5q6lwneywqqhg
 ```
 
 Thank you for stopping by, and happy riding! 🚲
+
+---
+
+## 📜 License
+
+This project is licensed under the **[CC BY-NC-SA 4.0](LICENSE)** (Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International) License.
+
+### What does this mean?
+* **Attribution (BY):** You are free to share and adapt this material, provided you give appropriate credit.
+* **NonCommercial (NC):** You may **NOT** use the CAD files or manufactured parts for commercial purposes or resale.
+* **ShareAlike (SA):** If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+
+For full license details, please read the **[LICENSE](LICENSE)** file in this repository.
